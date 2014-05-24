@@ -3,7 +3,7 @@
 * Location: Seattle
 * Duration: Perpetual
 
-#Artivle II Purpose
+#Article II Purpose
 1. Create a fempto brewery with a physical presence in seattle
 2. Be awesome
 3. Break even (maybe) 
