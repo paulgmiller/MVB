@@ -1,7 +1,5 @@
-MVB
-===
+Minimum Viable Brewing
+======================
 
-Minium viable brewery
-
-[markdown](http://daringfireball.net/projects/markdown/syntax)  
-[bylaws](/bylaws.md)
+ * [Markdown](http://daringfireball.net/projects/markdown/syntax)  
+ * [Operating Agreement](/Operating Agreement.md)
