@@ -1,5 +1,5 @@
 #Article I Description
-* Name: MVB
+* Name: Minimum Viable Brewing LLC
 * Location: Seattle
 * Duration: Perpetual
 
