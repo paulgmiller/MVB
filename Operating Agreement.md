@@ -4,30 +4,30 @@
 * Duration: Perpetual
 
 #Article II Purpose
-1. Create a nano brewery with a physical presence in seattle
+1. Create a nano brewery with a physical presence in Seattle, WA.
 2. Be awesome
 3. Break even (maybe) 
 
-
 #Article III Members
-+ Anyone who commits to intitial funding round of 4.5K  is a member. This section will be changed once that occurs 
++ Anyone who commits to intitial funding round of $4,500 is a member. This section will be changed once that occurs. 
 + New members require a full majority and some investment to be set by same vote. 
 
 #Article IV Powers
-
 + All members are directors.
-+ A majority of a quorum of directors may approve expetures over $100 up to current available funds
-+ Directors may spend 100 w/o approal once a month.
++ A majority of a quorum of directors may approve expenditures up to the smaller of $100 or the current available funds.
++ Directors may spend up to $100 each month, without approval.
 
 #Article V Meetings
 + Monthly meetings shall be arranged
-+ Quorom is 1/2 of directors
-+ Notice of time and place must be 1 week in advance.
-+ Special meetings can happen whenever there is quorum however resulsts are subject to 1 week of review.
-+ Proxies are fine. 
-+ Virtual meetings are fine but subject to 1 week review.
-+ Full majority can enact things immediatly without review.
-+ Tie breaker goes to the nay.
++ Notice of time and place must be given at least one week in advance.
++ Special meetings may be conducted with less than one week of given notice, and may approve motions through the same voting process, however passed motions are subject to one week of review.
++ Virtual meetings are fine but are subject to one week review.
+
+##Voting
++ Voting may only occur during meetings.
++ When voting, a quorom of over one half or more of directors is required for approval.
++ When passed with full majority, a movement may be enacted immediatly and without review.
++ Proxies may be granted. The proxy delegation must be documented in advance of the vote by the principal posting to the Facebook group the name of the proxy they wish to bestow voting rights to. The proxy exists for the duration of a single meeting.
 
 #Article V Removal 
 Requires 3/4 vote and compensation of 1/2 of investment to date.
@@ -46,11 +46,3 @@ All assets shall be sold off and funds divided amongst directors
 
 #Article VIII Bylaw changes.
 Requires a full majority.
-
-
-
-
-
-
-
-
