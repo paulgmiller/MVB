@@ -14,8 +14,9 @@
 
 #Article IV Powers
 + All members are directors.
-+ A majority of a quorum of directors may approve expenditures up to the smaller of $100 or the current available funds.
++ A majority of a quorum of directors may approve expenditures.
 + Directors may spend up to $100 each month, without approval.
++ No expenditures may be made/refunded above current funds. 
 
 #Article V Meetings
 + Monthly meetings shall be arranged
