@@ -44,5 +44,5 @@ There are no officers, no restrictions, and no anti-discrimination clause.
 #Article VII Dissolution
 All assets shall be sold off and funds divided amongst directors.
 
-#Article VIII Bylaw changes.
+#Article VIII Bylaw changes
 Requires a full majority.
