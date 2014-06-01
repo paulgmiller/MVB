@@ -1,6 +1,6 @@
 #Article I Description
 * Name: Minimum Viable Brewing LLC
-* Location: Seattle
+* Location: Seattle, WA.
 * Duration: Perpetual
 
 #Article II Purpose
