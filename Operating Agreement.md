@@ -29,20 +29,20 @@
 + When passed with full majority, a movement may be enacted immediatly and without review.
 + Proxies may be granted. The proxy delegation must be documented in advance of the vote by the principal posting to the Facebook group the name of the proxy they wish to bestow voting rights to. The proxy exists for the duration of a single meeting.
 
-#Article V Removal 
+#Article V Member Removal 
 Requires 3/4 vote and compensation of 1/2 of investment to date.
 
 #Article VI Boring
-There is no officers, no restrictions and no anti discrimination clause
+There are no officers, no restrictions, and no anti-discrimination clause.
 
 #Article VII Funds
-+Deposits and refunds are pulled from one chekcing acfcount
-+Minimum of 3 people have name on account at anytime.
-+Contracts require full majority
++Deposits and refunds are pulled from one checking account.
++Minimum of three members have name on account at anytime.
++Contracts require full majority.
 +Loans require unanimous vote.
 
 #Article VII Dissolution
-All assets shall be sold off and funds divided amongst directors
+All assets shall be sold off and funds divided amongst directors.
 
-#Article VIII Bylaw changes.
+#Article VIII Bylaw changes
 Requires a full majority.
