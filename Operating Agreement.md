@@ -1,12 +1,12 @@
 #Article I Description
 * Name: Minimum Viable Brewing LLC
-* Location: Seattle
+* Location: Seattle, WA.
 * Duration: Perpetual
 
 #Article II Purpose
 1. Create a nano brewery with a physical presence in Seattle, WA.
-2. Be awesome
-3. Break even (maybe) 
+2. Be awesome.
+3. Break even. Maybe. 
 
 #Article III Members
 + Anyone who commits to intitial funding round of $4,500 is a member. This section will be changed once that occurs. 
@@ -36,13 +36,13 @@ Requires 3/4 vote and compensation of 1/2 of investment to date.
 There are no officers, no restrictions, and no anti-discrimination clause.
 
 #Article VII Funds
-+Deposits and refunds are pulled from one checking account.
-+Minimum of three members have name on account at anytime.
-+Contracts require full majority.
-+Loans require unanimous vote.
++ Deposits and refunds are pulled from one checking account.
++ Minimum of three members have name on account at anytime.
++ Contracts require full majority.
++ Loans require unanimous vote.
 
 #Article VII Dissolution
 All assets shall be sold off and funds divided amongst directors.
 
-#Article VIII Bylaw changes
-Requires a full majority.
+#Article VIII Operating Agreement Changes
+Operating Agreement changes are made by passing a meeting vote with full majority.
