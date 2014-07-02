@@ -14,14 +14,15 @@ Operating Agreement
 2. Be awesome.
 3. Break even. Maybe.
 
-#Section 3 Members
-+ Dustin Anglin
-+ Brent Dorman
-+ Justin Mahood
-+ Rob Meyer
-+ Paul Miller
-+ Harold Pratt
-+ Brad Sullivan
+#Section 3 Members and Capital Contributions
++ Dustin Anglin - $2,000 #insert address
++ Chip Locke - $2,000 #insert address
++ Brent Dorman - $2,000 #insert address
++ Justin Mahood - $2,000 #insert address
++ Rob Meyer - $2,000 #insert address
++ Paul Miller - $2,000 #insert address
++ Harold Pratt - $2,000 - 530 Broadway E, APT 504, Seattle, WA, 98102
++ Brad Sullivan - $2,000 #insert address
 
 #Section 4 New Members
 1. New members may join by a vote of a full majority of all members.
@@ -49,6 +50,7 @@ Operating Agreement
 1. The Company shall determine its value on an annual basis.
 2. The Company's valuation must be determined by a unanimous vote of all members.
 3. Each member owns an equal share of the Company's value.
+4. The Company's value, as of July 2014, is $16,000.
 
 #Section 7 Member Removal 
 1. A member may be removed by a vote of 3/4 of all members.
@@ -65,8 +67,8 @@ Operating Agreement
 
 #Section 10 Funds
 1. A minimum of three members must have their names on account at anytime.
-2. Contracts require full majority.
-3. Loans require unanimous vote.
+2. Contracts require a full majority of all members.
+3. Loans require a unanimous vote.
 4. Profits and losses are shared evenly by all members annually.
 
 #Section 11 Dissolution
