@@ -6,7 +6,7 @@ Operating Agreement
 2. Location: Seattle, WA.
 3. Duration: Perpetual
 4. Formation Date: 06/XX/2014
-5. Registered Office: 530 Broadway E, APT 504, Seattle, WA
+5. Registered Office: ?
 6. Registered Agent: Harold T Pratt IV
 
 #Section 2 Purpose
@@ -15,14 +15,7 @@ Operating Agreement
 3. Break even. Maybe.
 
 #Section 3 Members and Capital Contributions
-+ Dustin Anglin - $2,000 #insert address
-+ Chip Locke - $2,000 #insert address
-+ Brent Dorman - $2,000 #insert address
-+ Justin Mahood - $2,000 #insert address
-+ Rob Meyer - $2,000 #insert address
-+ Paul Miller - $2,000 #insert address
-+ Harold Pratt - $2,000 - 530 Broadway E, APT 504, Seattle, WA, 98102
-+ Brad Sullivan - $2,000 #insert address
+List names and addresses?
 
 #Section 4 New Members
 1. New members may join by a vote of a full majority of all members.
