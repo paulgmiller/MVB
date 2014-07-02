@@ -46,17 +46,17 @@ Operating Agreement
 [1]: https://www.facebook.com/groups/740884332604692/ "Facebook Group"
 
 #Section 7 Member Removal 
-Requires 3/4 vote and compensation of 1/2 of investment to date.
+1. Requires 3/4 vote and compensation of 1/2 of investment to date.
 
 #Section 8 Boring Legalese
 1. There are no officers, no restrictions, and no anti-discrimination clause.
 2. The Company shall indemnify any person who was or is a party defendant or is threatened to be made a party defendant, pending or completed action, suit or proceeding, whether civil, criminal, administrative, or investigative (other than an action by or in the right of the Company) by reason of the fact that he is or was a Member of the Company, Manager, employee or agent of the Company, or is or was serving at the request of the Company, against expenses (including attorney's fees), judgments, fines, and amounts paid in settlement actually and reasonably incurred in connection with such action, suit or proceeding if the Members determine that he acted in good faith and in a manner he reasonably believed to be in or not opposed to the best interest of the Company, and with respect to any criminal action proceeding, has no reasonable cause to believe his/her conduct was unlawful.  The termination of any action, suit, or proceeding by judgment, order, settlement, conviction, or upon a plea of "no lo Contendere" or its equivalent, shall not in itself create a presumption that the person did or did not act in good faith and in a manner which he reasonably believed to be in the best interest of the Company, and, with respect to any criminal action or proceeding, had reasonable cause to believe that his/her conduct was lawful.
 
-
 #Section 9 Funds
 1. A minimum of three members must have their names on account at anytime.
 2. Contracts require full majority.
 3. Loans require unanimous vote.
+4. Profits and losses are shared evenly by all members annually.
 
 #Section 10 Dissolution
 1. All assets shall be sold off and funds divided amongst directors.
